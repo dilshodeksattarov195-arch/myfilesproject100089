@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsecrypt",
+        "uuid": 462889,
+        "checksum": "backzl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
